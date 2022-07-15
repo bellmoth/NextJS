@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/bellmoth/bellmoth/NextJS/main/devcard.svg" width="400" alt="Bellmoth Dev Card"/></a>
+<a href="https://app.daily.dev/bellmoth"><img src="https://github.com/bellmoth/NextJS/blob/main/devcard.svg" width="400" alt="Bellmoth Dev Card"/></a>
 
 ## Getting Started
 
